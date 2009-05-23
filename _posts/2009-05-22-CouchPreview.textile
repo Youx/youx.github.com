@@ -1,0 +1,8 @@
+---
+title: CouchPreview
+layout: default
+categories: projects
+shortdesc: A SIMBL plugin that allows you to command Apple's Preview.app with your remote.
+version: 0.5
+url: http://www.github.com/Youx/CouchPreview
+---

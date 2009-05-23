@@ -1,0 +1,15 @@
+---
+layout: default
+title: Youx.github.com
+---
+h1. Hugo Camboulive's page
+
+h2. About Me
+
+h2. Projects
+
+{% for p in site.categories.projects %}
+* "{{p.title}}":{{p.url}} (v{{p.version}}): {{p.shortdesc}}
+{% endfor %}
+
+h2. News

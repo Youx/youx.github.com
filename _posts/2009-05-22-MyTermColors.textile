@@ -1,0 +1,8 @@
+---
+title: MyTermColors
+layout: default
+categories: projects
+shortdesc: A SIMBL plugin that allows you to change the text colors for Apple's Terminal.app.
+version: 1.0
+url: http://Youx.github.com/MyTermColors
+---
