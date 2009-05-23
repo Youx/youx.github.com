@@ -6,10 +6,17 @@ h1. Hugo Camboulive's page
 
 h2. About Me
 
-h2. Projects
+h2. My Projects
 
 {% for p in site.categories.projects %}
 * "{{p.title}}":{{p.url}} (v{{p.version}}): {{p.shortdesc}}
 {% endfor %}
 
 h2. News
+
+{% for p in site.posts limit:10 %}
+  {% if p.categories contains 'projects' %}
+  {% else %}
+    {{p.title}} : {{p.shortdesc}}
+  {% endif %}
+{% endfor %}
