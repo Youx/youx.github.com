@@ -1,0 +1,12 @@
+---
+title: Up and running!
+layout: default
+categories: news
+---
+Ok, to I decided to set my github webpage account up.
+
+I'll put some info about the projects here (and some tech posts probably, when I feel like it). Not like anybody is going to read this anyway but hey... :)
+
+Jekyll is a cool tool by the way, I just need to work on the layout a bit more and it's going to be pretty neat. It already feels like home. :D
+
+Hugo
