@@ -1,0 +1,8 @@
+---
+title: Soliloque-server
+layout: default
+categories: projects
+shortdesc: An open source implementation of the group VOIP Teamspeak protocol (server).
+version: N/A
+url: http://youx.github.com/soliloque-server/
+---
