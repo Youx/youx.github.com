@@ -2,9 +2,16 @@
 layout: default
 title: Youx.github.com
 ---
-h1. Hugo Camboulive's page
+h1. Youx's Dev page
 
 h2. About Me
+
+*Hugo Camboulive*. _I was born on the 29th of August, 1985 in the town of Le Mans, France.
+I got a Master degree in computer engineering in 2008 after studying for 2 semesters in the USA._
+
+_I decided to host this page here after my dedicated server died a horrible death._
+
+*Hobbies* : _Aikido (currenty 3rd Kyu), Programming, SF & Fantasy books, Rock/Metal & affiliates._
 
 h2. My Projects
 
