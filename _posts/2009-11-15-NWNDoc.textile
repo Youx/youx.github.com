@@ -1,0 +1,8 @@
+---
+title: NWNDoc
+layout: default
+categories: projects
+shortdesc: A search-as-you-type NWScript reference based on NWNLexicon
+version: 0.7
+url: http://www.github.com/Youx/nwndoc
+---

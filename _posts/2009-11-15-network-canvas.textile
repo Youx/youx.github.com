@@ -1,0 +1,8 @@
+---
+title: network-canvas
+layout: default
+categories: projects
+shortdesc: A reimplementation of github's network graph using HTML5's canvas and javascript
+version: N/A
+url: http://www.github.com/Youx/network-canvas
+---
